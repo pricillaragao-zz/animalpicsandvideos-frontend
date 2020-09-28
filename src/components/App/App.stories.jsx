@@ -1,11 +1,11 @@
-import React from 'react'
-import App from './App';
+import React from "react";
+import App from "./App";
 
 export default {
-  title: 'AnimalPicsAndVideos/App',
-  component: App
+  title: "AnimalPicsAndVideos/App",
+  component: App,
 };
 
-const Template = () => <App />
+const Template = () => <App />;
 
 export const Default = Template.bind({});

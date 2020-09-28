@@ -1,7 +1,8 @@
 import React from "react";
+import HomePage from '../../pages/Home'
 
 function App() {
-  return <div>Hello, Animal Pics and Videos!</div>;
+  return <div><HomePage /></div>;
 }
 
 export default App;
